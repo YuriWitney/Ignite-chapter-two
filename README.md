@@ -1,1 +1,1 @@
-# Ignite-chapter-two
+# typescript-template
